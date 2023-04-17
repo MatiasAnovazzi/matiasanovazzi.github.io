@@ -7,6 +7,7 @@ export function App () {
         <TwitterFollorCard isFollowing userName='Matias Anovazzi'>
             Matias Anovazzi
           </TwitterFollorCard>
+          
           <TwitterFollorCard isFollowing={false} userName='Matias Anovazzi'>
             Pepe Argento
           </TwitterFollorCard>
